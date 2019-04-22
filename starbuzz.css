@@ -79,3 +79,17 @@ a:visited {
  #headerSlogan{
    float:right;
  }
+ #award{
+  position: absolute;
+   top:30px;
+   left:365px;
+ }
+ #coupon{
+  position: fixed;
+   top:350px;
+left:-90px;
+ }
+
+ #coupon a , img{
+  border:none;
+}
